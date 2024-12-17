@@ -1,2 +1,2 @@
 # tweb
-Exemplos de uso do TWEB: Framework para mod_harbour. Na medida do possível, simular comandos xbase para criar frontend
+Exemplos de uso do TWEB: Framework para mod_harbour. Na medida do possível, simula comandos xbase para criar frontend
